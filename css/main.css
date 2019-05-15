@@ -203,7 +203,7 @@ Primary use:
   top: 0;
   left: 0;
   background: #7579ff;
-  background: -webkit-linear-gradient(bottom, ##74ebd5, ##ACB6E5);
+  background: -webkit-linear-gradient(bottom, #74ebd5, #ACB6E5);
   background: -o-linear-gradient(bottom, #74ebd5, #ACB6E5);
   background: -moz-linear-gradient(bottom, #74ebd5, #ACB6E5);
   background: linear-gradient(bottom, #74ebd5, #ACB6E5);
